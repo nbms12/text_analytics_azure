@@ -1,1 +1,5 @@
-# text_analytics_azure
+# text_analytics_azure''
+
+
+
+aapi_key="hcxjhcjjdshjsdhsjhdsdb jcjhcjdhfjdhfhdjhfjddjhfjdhxjhjxhcxc"
